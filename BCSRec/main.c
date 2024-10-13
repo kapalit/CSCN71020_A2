@@ -3,7 +3,7 @@
 
 #include "main.h"
 
-void main() { //hi
+void main() { 
 	int length = 1;
 	int width = 1;
 	bool continueProgram = true;
